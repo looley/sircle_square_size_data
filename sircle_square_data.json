@@ -1,0 +1,16 @@
+{
+"rect" : [
+    {"x":50, "y":250, "size":20,"color":"green"},
+    {"x":120, "y":250, "size":30,"color":"blue"},
+    {"x":190, "y":250, "size":40,"color":"red"},
+    {"x":260, "y":250, "size":50,"color":"purple"},
+    {"x":330, "y":250, "size":60,"color":"yellow"}
+    ],
+"circle": [
+    {"x":50, "y":70, "rad":10,"color":"green"},
+    {"x":120, "y":70, "rad":20,"color":"blue"},
+    {"x":190, "y":70, "rad":30,"color":"red"},
+    {"x":260, "y":70, "rad":40,"color":"purple"},
+    {"x":330, "y":70, "rad":50,"color":"yellow"}
+]
+}
